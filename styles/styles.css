@@ -1,0 +1,36 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.cabecario {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.pagina-principal {
+    background-color: white;
+    box-shadow: 9px 9px 5em rgba(24, 22, 22, 0.77);
+    border-radius: 10pt 10pt 10pt 10pt;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-right: 40px;
+}
+
+img {
+    width: 35%;
+    margin-left: 32%;
+    margin-right: 30%;
+}
+
+hr {
+    border-bottom-width: 3px;
+    border-style: solid;
+}
+
+div {
+    margin-left: 2px;
+    margin-right: 40px;
+}
